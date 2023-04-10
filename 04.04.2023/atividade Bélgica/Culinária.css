@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    font-size: 16px;
+    font-family: sans-serif;
+    line-height: 15px;
+}
+.titulo1{
+    color: black;
+    text-align: left;
+    background-color: antiquewhite;
+}
+h1{
+    color: black;
+    background-color: antiquewhite;
+    border-radius: 10px;
+}
+h2{
+    color: black;
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+ul{
+    text-align: justify;
+    background-color: antiquewhite;
+}
+
+
+p{
+    background-color: antiquewhite;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    font-size: 18px;
+    color: red;
+}

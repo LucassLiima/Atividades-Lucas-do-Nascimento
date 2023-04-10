@@ -1,0 +1,19 @@
+clube{
+    width: 300px;
+}
+
+table{
+    background-color: black;
+}
+td{
+    border-bottom: 1px solid white;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    
+
+}
+
+th{
+    color: white;
+    text-align: left;
+}
